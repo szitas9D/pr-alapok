@@ -4,4 +4,4 @@ if válasz=="igen":
 elif válasz=="nem" :
       print("Sajnálom")
 else:
-    print("Erre nem tudok választ adni sajnálom")
+    print("Sajnos nem értem a válaszodat")
